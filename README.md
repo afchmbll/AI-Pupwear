@@ -5,12 +5,12 @@ Passos para iniciar
 1 - Instalar Node.js
 
 2 - Instalar dependências
-	npm install express
-	npm install multer
-	npm install axios
-	npm install sharp
-	npm install image-size
-	npm install canvas
+	-npm install express
+	-npm install multer
+	-npm install axios
+	-npm install sharp
+	-npm install image-size
+	-npm install canvas
 
 3 - Entrar no diretório onde está o ficheiro server.js (atravás da linha de comandos com cd <caminho da pasta>)
 

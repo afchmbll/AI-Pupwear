@@ -1,9 +1,11 @@
 # AI-Pupwear
 
-Passos para iniciar
+Website mockup with Custom feature, allowing the upload of pictures and the usage of effects. The webpage this mockup is based on is currently unavailable.
 
-1. Instalar Node.js
-2. Instalar dependências
+To run the project locally 
+
+1. Install Node.js
+2. Instalç dependencies
 - `npm install express`
 - `npm install multer`
 - `npm install axios`
@@ -11,8 +13,8 @@ Passos para iniciar
 - `npm install image-size`
 - `npm install canvas`
 
-3. Entrar no diretório onde está o ficheiro server.js (atravás da linha de comandos com `cd pasta_onde_está_o_ficheiro`)
+3. Choose the directory where the server.js file is located 
 
-4. Correr `node server.js`
+4. Run `node server.js`
 
-5. O site está a correr em localhost:8080
+5. The website will be running in localhost
